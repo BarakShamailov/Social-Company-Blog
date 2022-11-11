@@ -33,3 +33,4 @@ Werkzeug
 wincertstore
 WTForms
 gunicorn
+email_validator
