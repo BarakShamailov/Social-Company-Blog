@@ -34,3 +34,4 @@ wincertstore
 WTForms
 gunicorn
 email_validator
+Pillow
